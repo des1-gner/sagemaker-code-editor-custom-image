@@ -80,3 +80,8 @@ After creating a space, and launching an App with this Image you should then get
 You can then install relevant Extensions or other functionality as per the newest version of vscode. I've done lite testing of it using this and I didn't encounter any major bugs, but it looks like at least for me signitures are a little messed up. 
 
 I hope this helps you all in this interim period before the full release (which looks to be in the near future), please feel free to let me know if it works. Create an issue, if you'd like to ask any questions, and I'll do my best to get back to you though note I have no affiiliation with making the above releases I'm just posting this to help you all out.
+
+Found this as of 03/10/2025 post another customer question, but you might find this (outdated) guide useful too (will need to update the vscode version still as per this guide to fix update):
+https://sofian-hamiti.medium.com/enabling-github-copilot-in-sagemaker-studio-f8401b24faea
+
+Create an issue if you'd like me to post more about this! :)
